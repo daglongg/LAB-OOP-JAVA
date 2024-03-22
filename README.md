@@ -1,5 +1,5 @@
-LAB211_TuanVM_Spring2022
-Một số kinh nghiệm trước khi học LAB211 TuanVM
+# LAB211_TuanVM_Spring2022
+## Một số kinh nghiệm trước khi học LAB211 TuanVM
 
 Trước khi bắt tay việc code phải tạo khung chương trình (hàm main) trước rồi mới từ hàm main mới code những phần khác. Phần này thể hiện toàn bộ logic của chương trình và sẽ luôn bị thầy hỏi mỗi lần lên check bài.
 Những cái nên code ở hàm main: khai báo biến, gọi hàm và tuyệt đối không được code ở hàm main ngoại trừ những bài toàn liên quan quản lý thì có thể code phần điều hướng.
